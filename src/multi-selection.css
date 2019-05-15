@@ -84,6 +84,7 @@ input[type=checkbox]:checked + label {
 }
 
 .container .checkboxValuesContainer {
+   max-height: 200px;
     overflow-y: auto;
     display: none;
 }
@@ -230,6 +231,7 @@ input[type=checkbox]:checked + label {
 }
 
 .statecontainer .checkboxValuesContainer {
+    max-height: 200px;
     overflow-y: auto;
     display: none;
 }
