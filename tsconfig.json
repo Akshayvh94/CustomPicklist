@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "sourceMap": false,
+        "jsx": "react",
+        "types": [
+            "q",
+            "knockout",
+            "requirejs",
+            "jquery",
+            "react",
+            "react-dom"
+        ]
+    }
+}

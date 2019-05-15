@@ -1,0 +1,7 @@
+{
+    "name": "Rest Picklist Control (BETA)",
+    "galleryFlags": [
+        "Preview"
+    ],
+    "baseUri": "http://localhost:8888"
+}
